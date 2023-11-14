@@ -19,6 +19,17 @@ li {
     text-shadow: 0 0 20px white, 0 0 10px yellow;
 }
 
+a {
+        color: yellow;
+    display: inline-block;
+    font-size: 40px;
+    font-family: Monda;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-shadow: 0 0 20px white, 0 0 10px yellow;
+    text-decoration: none;
+}
+
 button {
     position: absolute;
     left: 5%;
